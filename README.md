@@ -1,4 +1,4 @@
-# README
+# Terminal Connect 4
 - simpe connect 4 game that run in the terminal
 - one player with a opponent that uses minmax algorithm
 
